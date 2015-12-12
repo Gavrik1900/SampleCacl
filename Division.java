@@ -3,7 +3,7 @@ package ua.gvv;
 import java.util.ArrayList;
 
 public class Division extends TypeWorking{
-	
+	// i change my class
 	private int chislitelInt, znamenatelInt, resultInt,colProbelovInt,colShtrihovInt,znachenieArrayInt;
 	private String chislitelStr, result, colProbelovStr,colShtihovStr,znachenieVArrayStr,
 	znamenatelStr,chislitelForOutStr;
